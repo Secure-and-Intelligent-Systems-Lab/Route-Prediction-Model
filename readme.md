@@ -1,10 +1,18 @@
 <h1 align="center">AIS or Eyes: Mix&Fix-Net for Vessel Route Prediction</h1>
 
 
-## SISLab VVR Dataset
-Download the videos and time series dataset from the link: [link](https://usf.box.com/s/kpiihxlq4ugxxbuva2k9hzcmihsn36y5)
-This link will provide a zip file, which contains three folders: ```time_series_from_video```, ```Train_Test_Validation_sequence```, and ```Videos```.
-All folders/sub-folders and files are shown in a tree in the following,
+## SISLab VVR Dataset  
+
+You can download the video and time series dataset from the following [link](https://usf.box.com/s/kpiihxlq4ugxxbuva2k9hzcmihsn36y5).  
+The link provides a zip file containing three folders:  
+
+- `time_series_from_video`  
+- `Train_Test_Validation_sequence`  
+- `Videos`  
+
+The directory structure, including all folders, subfolders, and files, is outlined below.  
+
+
 ```
 SISLab_VVR
 │
