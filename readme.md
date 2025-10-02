@@ -5,7 +5,7 @@
 Download the videos and time series dataset from the link: [link](https://usf.box.com/s/kpiihxlq4ugxxbuva2k9hzcmihsn36y5)
 This link will provide a zip file, which contains three folders: ```time_series_from_video```, ```Train_Test_Validation_sequence```, and ```Videos```.
 All folders/sub-folders and files are shown in a tree in the following,
-
+```
 SISLab_VVR
 │
 ├── time_series_from_video
@@ -31,7 +31,7 @@ SISLab_VVR
 	├── video_4.mp4
 	├── video_6.mp4
 	└── video_temp.mp4
-
+```
 
 Demo video of the route prediction using our model:
 [![Watch the video](https://img.youtube.com/vi/CgXx3Pa-xzY/maxresdefault.jpg)](https://youtu.be/CgXx3Pa-xzY)
